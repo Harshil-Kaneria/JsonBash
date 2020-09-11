@@ -1,4 +1,4 @@
-# Json-Bash
+# JsonBash
 
 A Javascript Function for Generating Basic Structure for Json Response Like Status , Message , Data.
 
@@ -68,8 +68,8 @@ jsonmanager.jsonbash(false,null,data);
 
 data = {
 	id:'1',
-	name3: 'harshil',
-	lastname3: 'kaneria'
+	name: 'harshil',
+	lastname: 'kaneria'
 }
 
 code = {
